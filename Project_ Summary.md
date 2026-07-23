@@ -23,9 +23,7 @@ The project began with MySQL to extract the startup dataset, validate data quali
 
 ### Sample SQL Screenshots
 
-![image alt]()
-
-![image alt]()
+![image alt](https://github.com/shobhitshrivastav1801-lang/Profit_Analysis/blob/4969d05129108b89da0225adb92e380b78899c66/Images_%26_Dataset_CSV/DASHBOARD.png)
 
 ---
 
