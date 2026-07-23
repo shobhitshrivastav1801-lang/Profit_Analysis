@@ -44,7 +44,7 @@ Built a Multiple Linear Regression model using Orange to analyze the relationshi
 
 ![image alt](https://github.com/shobhitshrivastav1801-lang/Profit_Analysis/blob/821050d9d2c4ab8c6de1a1857207e5e894336acb/Images_%26_Dataset_CSV/PA_Workflow.png)
 
-![image alt]()
+![image alt](https://github.com/shobhitshrivastav1801-lang/Profit_Analysis/blob/6a97b62e404f9c7d6c6f62145e6534ba5ad068df/Images_%26_Dataset_CSV/Prediction.png)
 
 ---
 
