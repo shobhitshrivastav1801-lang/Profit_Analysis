@@ -72,7 +72,7 @@ Developed an interactive Power BI dashboard to visualize startup spending patter
 
 ### Dashboard Screenshot
 
-![image alt]()
+![image alt](https://github.com/shobhitshrivastav1801-lang/Profit_Analysis/blob/7de12a843cfb148806a6b53fda701e85682601bd/Dataset_CSV/Screenshot%202026-06-07%20135053.png)
 
 ---
 
